@@ -1,3 +1,4 @@
+![logo](https://github.com/NikhilDahitule/NikhilDahitule/blob/main/5.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Dahitule</h1>
 <h3 align="center">A passionate AI Engineer/Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
